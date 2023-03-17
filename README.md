@@ -1,2 +1,2 @@
-# All projects in PhD
+# Projects in PhD
 
